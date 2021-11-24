@@ -1,5 +1,7 @@
 id: P000411
 initial_creation_type: ocr
+created_at: 18/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG1629
   title: དགེ་ལྡན་མཁས་གྲུབ་དག་གི་རྫོགས་སྐོར་ཕྱོགས་བསྒྲིགས།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 308
       base_file: v001.txt
-ebook_metadata:
-  title: དགེ་ལྡན་མཁས་གྲུབ་དག་གི་རྫོགས་སྐོར་ཕྱོགས་བསྒྲིགས།
-  author: ''
-  sku: P000411
-  cover: cover.jpg
-  layers:
-  - pagination
